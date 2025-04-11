@@ -4,3 +4,6 @@ test.sh
 nvim
 
 spell/
+
+directory_snapshot.txt
+health.txt
